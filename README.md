@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Daísa
+
+I'm a senior backend developer and tech lead with 16+ years of experience building scalable systems, APIs, and distributed architectures. Based in Brazil 🇧🇷.
 
 <!--
 **daisafernandes/daisafernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
