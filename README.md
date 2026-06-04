@@ -32,8 +32,9 @@ I'm a senior backend developer and tech lead with 16+ years of experience buildi
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) 
 ![TypeOrm](https://img.shields.io/badge/TypeORM-FE0803.svg?style=flat&logo=typescript&logoColor=white) 
 
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=daisafernandes&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=daisafernandes&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=daisafernandes&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
