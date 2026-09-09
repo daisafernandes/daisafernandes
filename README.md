@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Daísa
 
-I'm a senior backend developer and tech lead with 16+ years of experience building scalable systems, APIs, and distributed architectures. Based in Brazil 🇧🇷.
+I'm a senior backend developer and tech lead with 15+ years of experience building scalable systems, APIs, and distributed architectures. Based in Brazil 🇧🇷.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daisafernandes) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@daisafernandes) [![Daisa.dev](https://img.shields.io/badge/My%20WebSite-FF7F50?logoColor=white)](https://www.daisa.dev/) 
